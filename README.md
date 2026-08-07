@@ -160,6 +160,4 @@ goldman-sachs-financial-risk-python/
 
 ---
 
-## 📄 License
 
-This project was created as part of an Internshala training program. For educational use only.
